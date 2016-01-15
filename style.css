@@ -3,7 +3,7 @@ body{
     
 }
 .test{
-    width: 100%;
+    border-left-width: thick;
     height: 25px;
     background: #000;
     padding-right: 10%;
