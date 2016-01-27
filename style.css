@@ -1,11 +1,12 @@
 body{
     background: #FFF;
-    
+    border: 25%
 }
 .test{
     border-left-width: thick;
     height: 25px;
-    background: #000;
+    background: black
+    ;
     padding-right: 10%;
     padding-left: 25%;
 }
